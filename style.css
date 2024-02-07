@@ -44,7 +44,7 @@ a{
 
 #home{
     background-color: var(--bg-primary);
-    height: 100vh;
+    min-height: 100vh;
 }
 #home .navbar{
     background-color: #fff;
